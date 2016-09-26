@@ -5,7 +5,7 @@ import java.util.*;
 public class Datum {
 
 	private int dag,maand,jaar;
-//test
+//testff
 	//set methodes niet toegelate -> immutable
 	//get
 	public int getDag()
